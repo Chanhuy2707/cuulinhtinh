@@ -3,7 +3,7 @@ window.CUU_CONFIG = {
   youtube: "https://www.youtube.com/@Cuulinhtinh",
   tiktok: "https://www.tiktok.com/@cuulinhtinh",
   instagram: "https://www.instagram.com/cuulinhtinh/",
-  facebook: "https://www.facebook.com/pages/?category=your_pages"
+  facebook: "https://www.facebook.com/profile.php?id=61596545978617"
 };
 
 window.CUU_PRODUCTS = [
